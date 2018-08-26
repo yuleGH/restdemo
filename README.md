@@ -4,8 +4,8 @@
 ## 首先，介绍一下 RESTful 架构：
 <a href="https://www.cnblogs.com/yuxiaole/p/9536739.html" target="_blank">理解 RESTful 架构</a>
 ## 然后，开始尝试
-<a href="https://www.cnblogs.com/yuxiaole/p/9537357.html" target="_blank">博客地址</a>
-　　**需求：**
+<a href="https://www.cnblogs.com/yuxiaole/p/9537357.html" target="_blank">博客地址</a><br>
+　　**需求：**<br>
 　　简单实现 CRUD
 
 　　**设计一下 API：**<br>
@@ -16,5 +16,5 @@ PUT  http://localhost:8080/api/user/1 更新用户 id=1 的数据<br>
 DELETE  http://localhost:8080/api/user/1 删除用户 id=1 的数据<br>
 DELETE  http://localhost:8080/api/users 删除所有用户<br>
 
-　　**使用技术：**
+　　**使用技术：**<br>
 　　idea + springMVC + maven
