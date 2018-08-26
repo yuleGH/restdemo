@@ -1,10 +1,10 @@
 # restdemo
 使用 springmvc + maven 简单实现一个符合 RESTful 架构风格的程序
 
-##首先，介绍一下 RESTful 架构：
-
-    <a href="https://www.cnblogs.com/yuxiaole/p/9536739.html" target="_blank">理解 RESTful 架构</a>
-##然后，开始尝试
+## 首先，介绍一下 RESTful 架构：
+<a href="https://www.cnblogs.com/yuxiaole/p/9536739.html" target="_blank">理解 RESTful 架构</a>
+## 然后，开始尝试
+<a href="https://www.cnblogs.com/yuxiaole/p/9537357.html" target="_blank">博客地址</a>
 　　**需求：**
 　　简单实现 CRUD
 
